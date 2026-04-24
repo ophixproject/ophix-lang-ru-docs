@@ -1,10 +1,12 @@
 # ophix-lang-ru-docs
 
+> Русский языковой пакет для ophix-docs.
+
 Russian translation pack for [ophix-docs](https://ophix.io).
 
 ## Install
 
-```
+```bash
 pip install ophix-lang-ru-docs
 ```
 
