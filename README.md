@@ -16,3 +16,7 @@ Then set `LANGUAGE_CODE = "ru"` in your server `.env`.
 
 - Admin UI strings: app label, model field labels and help text
 - Documentation page: ophix-docs system guide
+
+## Documentation
+
+- [Система документации](src/ophix_lang_ru_docs/docs/ophix_docs.md)
