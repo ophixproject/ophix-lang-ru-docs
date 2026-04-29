@@ -1,7 +1,7 @@
 ---
 title: Система документации
 slug: ophix-docs
-order: 1
+order: 500
 section: Расширения
 ---
 
