@@ -14,7 +14,7 @@ authors = [
 ]
 dependencies = [
     "ophix-docs>=2026.05.01.01",
-    "ophix-lang-fr-server-base>=2026.05.01.01",
+    "ophix-lang-ru-server-base>=2026.05.01.01",
 ]
 
 [tool.setuptools.packages.find]
